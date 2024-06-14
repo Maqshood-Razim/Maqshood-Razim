@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Go projects**
 
-- 👨‍💻 All of my projects are available at [https://maqshood-razim.github.io/portfolio/](https://maqshood-razim.github.io/portfolio/)
+- 👨‍💻 Portfolio -> [https://maqshood-razim.github.io/portfolio/](https://maqshood-razim.github.io/portfolio/)
 
 - 💬 Ask me about **Go,React,javascript,html,css**
 
